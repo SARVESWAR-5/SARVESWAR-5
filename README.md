@@ -6,6 +6,7 @@
 ---
 
 ### 🚀 Journey in Tech
+<img align="right" src="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" width="280" alt="GIF" />
 - 🛠️ Strong foundation in **C, C++, Python & Java**
 - 🔗 Worked on projects using **Node.js & MongoDB**
 - 📚 Currently learning **DSA** to strengthen problem-solving skills
@@ -48,7 +49,7 @@
 
 ### 📁 My Projects
 
-#### 💻  [Operating Systems Lab Automation Module](https://github.com/sarveswar2003/os-lab-automation](https://github.com/SARVESWAR-5/LabAutomation-OSmodule)
+#### 💻  [Operating Systems Lab Automation Module](https://github.com/SARVESWAR-5/LabAutomation-OSmodule)
 - Designed scalable module for 500+ students with automated batch assignment, real-time WebSocket monitoring, Docker-based environments, and analytics dashboards.
 - **Tech Stack:** React.js, Node.js, Express, MongoDB, JWT, Docker, WebSockets, Git
 
@@ -68,22 +69,6 @@
 
 
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveswar2003&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARVESWAR-5&layout=pie&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SARVESWAR-5&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
-
----
 
 ### 📬 Contact Me
 
