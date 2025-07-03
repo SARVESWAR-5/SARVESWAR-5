@@ -82,14 +82,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveswar2003&layout=pie&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARVESWAR-5&layout=pie&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarveswar2003&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SARVESWAR-5&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌟
-<p align="center"><em>🚀 Excited to build, learn, and grow in the world of technology!</em></p>
+
