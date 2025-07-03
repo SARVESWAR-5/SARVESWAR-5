@@ -48,32 +48,25 @@
 
 ### 📁 My Projects
 
-#### 💻 Operating Systems Lab Automation Module
+#### 💻  [Operating Systems Lab Automation Module](https://github.com/sarveswar2003/os-lab-automation](https://github.com/SARVESWAR-5/LabAutomation-OSmodule)
 - Designed scalable module for 500+ students with automated batch assignment, real-time WebSocket monitoring, Docker-based environments, and analytics dashboards.
 - **Tech Stack:** React.js, Node.js, Express, MongoDB, JWT, Docker, WebSockets, Git
 
-#### 🧠 PC Building Platform Developer
+#### 🧠 [PC Building Platform Developer](https://github.com/SARVESWAR-5/pc-built-website)
 - Built a full-stack PC builder with ML-based bottleneck checking, e-commerce simulation store, JWT auth, and real-time inventory handling.
 - **Tech Stack:** React, Node.js, Express, MongoDB, JavaScript, HTML/CSS
 
-#### 📚 E-Learning Platform Developer
+#### 📚 [E-Learning Platform Developer](https://github.com/SARVESWAR-5/EduWaveAcademy)
 - Scalable platform for 1,000+ users with secure auth, mentor-student collaboration, email automation, and Vercel/Render deployments.
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Nodemailer, Axios, Git, Vercel, Render
 
-#### 🚗 Car Marketplace & Rental Platform
+#### 🚗 [Car Marketplace & Rental Platform](https://github.com/SARVESWAR-5/AutoNest)
 - Enabled secure car buy/sell/rent workflows with admin dashboards, search/pagination, and real-time CRUD features.
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, EmailJS, Git
 
 ---
 
-### 🤖 Coding Memes & GIFs
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3ZWFoNTZ6enBoZ3k2eDdlbmJrc2RwbHluZWp6ZmU3YmY4b2ZyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1tO7ywb2uCP49P2WQ/giphy.gif" width="300" />
-</p>
-
----
 
 ### 📊 GitHub Activity
 
@@ -89,6 +82,21 @@
   <img src="https://komarev.com/ghpvc/?username=SARVESWAR-5&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+
 ---
+
+### 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:shsarveswar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarveswar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sarveswar2003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
